@@ -1,11 +1,11 @@
-## Hi 👋, my name is Shubham
+## Hi 👋, my name is Shubham Shah
 
 <img align="right" src="https://github.com/bornebyte/bornebyte/blob/main/developer.gif" alt="Hola Coders" width="500" height="350"/>
 
-##### I am a full stack developer with 2+ years of experience building web applications.
+##### I am a full stack developer with 4+ years of experience building web applications.
 
 - 🌱 I’m currently learning **System Designs and Algorithms**
-- 💬 Ask me about **Golang, Python, JavaScript, C, C++, ReactJS, NextJs, Docker, Linux**
+- 💬 Ask me about **C, C++, Python, GoLang, HTML, CSS, Tailwind CSS, JavaScript, Typescript, ReactJS, NextJs, NodeJS Docker, Linux, PostgreSQL, MongoDB**
 - 📫 How to reach me: shahshubham1888@gmail.com
 - 😄 Pronouns: bornebyte
 - ⚡ Fun fact: I paint at times!
