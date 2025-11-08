@@ -1,4 +1,7 @@
-## Hi 👋, my name is Shubham Shah
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
+</p>
+## I am Shubham Shah
 
 <img align="right" src="https://github.com/bornebyte/bornebyte/blob/main/developer.gif" alt="Hola Coders" width="500" height="350"/>
 
