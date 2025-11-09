@@ -6,12 +6,15 @@
 
 <img align="right" src="https://github.com/bornebyte/bornebyte/blob/main/developer.gif" alt="Hola Coders" width="500" height="350"/>
 
-##### I am a full stack developer with 4+ years of experience building web applications.
+##### 💻 I’m a Full Stack Developer with 4+ years of experience building scalable and user-focused web applications.
 
-- 🌱 I’m currently learning **System Designs and Algorithms**
-- 📫 How to reach me: shahshubham1888@gmail.com
+- 🌱 I’m currently learning **System Designs** and **Algorithms**
+- 📫 Reach me at: shahshubham1888@gmail.com
 - 😄 Pronouns: bornebyte
 - ⚡ Fun fact: I paint at times!
+- 🚀 Always curious and eager to learn something new.
+- 💡 “Keep building, keep growing — every line of code is a step toward something greater.”
+- 💪 "Reject the mundane. Engineer the extraordinary. Leave a mark on the world that makes it softer, simpler, and brighter for everyone else. Your legacy is not what you have, but the hope you give."
 
 ##### Online Presence
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/bornebyte)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://x.com/shahshubham1828) [<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="red" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-instagram-icon lucide-instagram"><rect width="20" height="20" x="2" y="2" rx="5" ry="5"/><path d="M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z"/><line x1="17.5" x2="17.51" y1="6.5" y2="6.5"/></svg>](https://instagram.com/bornebyte) <a href="mailto:shahshubham1888@gmail.com"><svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-mail-icon lucide-mail"><path d="m22 7-8.991 5.727a2 2 0 0 1-2.009 0L2 7"/><rect x="2" y="4" width="20" height="16" rx="2"/></svg></a>
