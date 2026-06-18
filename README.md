@@ -76,6 +76,7 @@
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
 </p>
@@ -142,7 +143,7 @@ const shubham = {
       js: ["Node.js", "Express"],
       python: ["Django"]
     },
-    databases: ["MongoDB", "MySQL"],
+    databases: ["PostgreSQL", "MongoDB", "MySQL"],
     devOps: ["Docker", "Kubernetes", "Linux"],
     mobile: ["Flutter"]
   },
