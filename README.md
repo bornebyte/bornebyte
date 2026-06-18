@@ -79,6 +79,7 @@
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma"/>
 </p>
 
 #### 🔧 DevOps & Tools
@@ -144,6 +145,7 @@ const shubham = {
       python: ["Django"]
     },
     databases: ["PostgreSQL", "MongoDB", "MySQL"],
+    orm: ["Prisma"],
     devOps: ["Docker", "Kubernetes", "Linux"],
     mobile: ["Flutter"]
   },
