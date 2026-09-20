@@ -10,6 +10,10 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=bornebyte&color=blue&style=flat-square" alt="Profile Views" />
+</p>
+
 <img align="right" src="https://github.com/bornebyte/bornebyte/blob/main/developer.gif" alt="Coding" width="400" height="300"/>
 
 ### 🚀 About Me
@@ -29,6 +33,19 @@
 <br clear="right"/>
 
 ---
+
+## ›› What I Build
+
+<br/>
+
+<table>
+<tr><td width="28%"><b>🌐 Full-Stack Applications</b></td><td>Scalable, user-focused products built from polished interfaces to reliable APIs</td><td><sub>React · Next.js · Node.js · TypeScript</sub></td></tr>
+<tr><td><b>⚙️ Backend &amp; System Design</b></td><td>Maintainable services, data models, integrations, and architecture experiments</td><td><sub>Python · Django · FastAPI · PostgreSQL</sub></td></tr>
+<tr><td><b>🚀 SaaS Experiments</b></td><td>Turning practical ideas into useful, production-minded products</td><td><sub>Prisma · GraphQL · MongoDB · Docker</sub></td></tr>
+<tr><td><b>🎨 Creative Web Experiences</b></td><td>Interactive interfaces that combine thoughtful UX with expressive visual design</td><td><sub>Vue · Three.js · Tailwind CSS · Vite</sub></td></tr>
+</table>
+
+<br/>
 
 ### 📬 Connect With Me
 
@@ -79,6 +96,10 @@
   </a>
 </p>
 
+**AI / Engineering:** System Design · Advanced Algorithms · Data Structures · Open Source
+
+**Workflow:** Git · Docker · Linux · Vercel · Figma · VS Code
+
 ---
 
 ### 📊 GitHub Statistics
@@ -89,12 +110,18 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bornebyte&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=bornebyte&theme=gotham" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bornebyte&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bornebyte&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
 </div>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bornebyte&theme=tokyonight" height="160" alt="GitHub statistics summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bornebyte&theme=tokyonight" height="160" alt="Repositories by language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bornebyte&theme=tokyonight&utcOffset=5.5" height="160" alt="Productive time" />
+</p>
 
 ---
 
@@ -102,14 +129,6 @@
 
 <p align="center">
   <img src="https://github-trophies.vercel.app/?username=bornebyte&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
-</p>
-
----
-
-### 📈 Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bornebyte&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
@@ -166,6 +185,14 @@ Coming Soon! Stay tuned for articles on web development, system design, and tech
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+</div>
+
+<div align="center">
+
+**Open to open-source contributions · ambitious products · meaningful collaborations**
+
+*"Keep learning. Keep building. Keep making the web better."*
+
 </div>
 
 ---
